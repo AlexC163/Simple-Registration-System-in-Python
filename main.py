@@ -1,6 +1,3 @@
-logged_in = False
-
-
 def startingScreen():
     while True:
         choice = input("Do you want to log in or sign up?: ").lower()
